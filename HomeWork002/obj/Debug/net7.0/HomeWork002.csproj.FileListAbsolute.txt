@@ -1,0 +1,14 @@
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\HomeWork002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\HomeWork002.AssemblyInfoInputs.cache
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\HomeWork002.AssemblyInfo.cs
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\HomeWork002.csproj.CoreCompileInputs.cache
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\bin\Debug\net7.0\HomeWork002.exe
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\bin\Debug\net7.0\HomeWork002.deps.json
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\bin\Debug\net7.0\HomeWork002.runtimeconfig.json
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\bin\Debug\net7.0\HomeWork002.dll
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\bin\Debug\net7.0\HomeWork002.pdb
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\HomeWork002.dll
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\refint\HomeWork002.dll
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\HomeWork002.pdb
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\HomeWork002.genruntimeconfig.cache
+C:\Users\anast\Desktop\HomeWork002_Znakomstvo_s_yazykami\HomeWork002\obj\Debug\net7.0\ref\HomeWork002.dll
